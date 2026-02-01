@@ -1,5 +1,7 @@
 # Law Indexes: New York
 
+[![DOI](https://zenodo.org/badge/1147137401.svg)](https://doi.org/10.5281/zenodo.18447931)
+
 ## Summary
 
 As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this repository has been created to disseminate law index data for the State of New York. This index currently covers unconsolidated laws from 1778 through 1919.
